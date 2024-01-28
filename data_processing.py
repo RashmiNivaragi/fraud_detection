@@ -4,4 +4,7 @@ a = 5
 b = 3
 
 sum = a+ b
-print("Result:",sum)
+print("Result Addition:",sum)
+
+sub = a- b 
+print("Result Substraction:",sub)
