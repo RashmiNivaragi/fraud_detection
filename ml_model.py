@@ -9,3 +9,6 @@ def model2:
 
 def model3:
     print('model 3')
+
+
+print('model 2 perfomance better than other models!!')
